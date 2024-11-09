@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >+
-      <div style="text-align: left">#### **A Management Systems Engineering
+      <div style="text-align: left">##### **A Management Systems Engineering
       Approach to the Design of Artificial Intelligence/Machine Learning (AI/ML)
       -Enabled Decentralized Autonomous Organizations (DAO)s for the Government
       Sector**</div>
