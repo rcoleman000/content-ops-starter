@@ -9,10 +9,8 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >+
-      <div style="text-align: center">**A Management Systems Engineering
-      Approach to the Design of Artificial Intelligence/Machine Learning (AI/ML)
-      -Enabled Decentralized Autonomous Organizations (DAO)s for the Government
-      Sector**</div>
+      <div style="text-align:
+      left">****![](/images/DApp%20#1,%2008%20Nov%2024.jpg)</div>
 
     actions:
       - label: Get started
