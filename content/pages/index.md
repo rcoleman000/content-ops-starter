@@ -32,7 +32,6 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: '/images/DApp #1, 08 Nov 24.jpg'
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
