@@ -8,10 +8,13 @@ sections:
       color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      A Management Systems Engineering Approach to the Design of Artificial
+      Intelligence/Machine Learning (AI/ML) -Enabled Decentralized Autonomous
+      Organizations (DAO)s for the Government Sector
+
+
+
     actions:
       - label: Get started
         altText: ''
