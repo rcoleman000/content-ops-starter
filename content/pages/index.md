@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: The Blockchain Research Development and AI (Bloc-RDA) Framework
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
